@@ -1,4 +1,0 @@
-EmotionRecognition
-==================
-
-Emotion recognition project
